@@ -1,0 +1,11 @@
+body {
+    height: 100vh;
+}
+
+.card {
+    max-width: 1000px;
+}
+
+.payment-methods{
+    display: inline-block;
+}
